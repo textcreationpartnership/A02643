@@ -36,9 +36,17 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The hunting of the fox: or, Flattery displayed The flatterers devise; a water-man looking one way, a
+
+1. TO THE RIGHT Worshipfull Sir CHRISTOPHER HARFLETE, Knight of the Ile of Thanet.
+
+1. To the Reader.
+
+1. The Contents.
+
 #####Body#####
-The hunting of the fox: or, Flattery displayed The flatterers devise; a water-man looking one way, a
+
+1. THE HVNTING OF THE FOX: OR, THE FLATTERER DISPLAYED.
+
 **Types of content**
 
   * There are 9 **verse** lines!
